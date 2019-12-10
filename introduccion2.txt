@@ -8,8 +8,8 @@
 <h2>Curso basico</h2>
 <h3>HTML</h3>
 <p>Esta es una pagigan web</p>
-<p>Desarrollada por: Denilson Chavez</p>
-<p>Los lenguajes que se van a enseñar en este curso son los siguientes (lisya no ordenada): </p>
+<p>Desarrollada por: maria fernanda osorio</p>
+<p>Los lenguajes que se van a enseÃ±ar en este curso son los siguientes (lisya no ordenada): </p>
 <ul>
 	<li>HTML</li>
 	<li>javaScript</li>
@@ -23,7 +23,7 @@
 	</ol>
 	<a href="https://www.utp.edu.co/">Pagina de la Universidad tecnologica de pereira</a>
 
-	<p style="color:blue; font-size: 32px;">texto con atributos de color y de tamaño </p>
+	<p style="color:blue; font-size: 32px;">texto con atributos de color y de tamaÃ±o </p>
 
 </body>
 </html>
